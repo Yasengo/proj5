@@ -228,9 +228,15 @@ button.white {
 .hero h5 {
     padding-bottom: 1.5rem;
 }
+.hero p{
+    color: #0c0c0c;
+    font-weight: 500;
+}
 
 .hero h1 {
     color: #088178;
+    /* color: #000;
+    font-weight: 500; */
 }
 
 .hero button {
@@ -239,7 +245,7 @@ button.white {
     background-color: transparent;
     background-repeat: no-repeat;
     border: 0;
-    color: #088178;
+    color: #0e0e0e;
     padding: 1.5rem 8rem 1.5rem 6.5rem;
     cursor: pointer;
     font-weight: 700;
